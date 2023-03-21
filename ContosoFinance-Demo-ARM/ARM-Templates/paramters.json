@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "East US"
+            "value": "WestEurope"
         },
         "hostingplanname": {
             "value": "ContosoFinance-Demo-Plan2"
