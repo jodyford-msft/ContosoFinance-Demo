@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "WestEurope"
+            "value": "EastUS"
         },
         "hostingplanname": {
-            "value": "ContosoFinance-Demo-Plan"
+            "value": "ContosoFinance-Demo-Plan2"
         },
         "webappname": {
-            "value": "ContosoFinance-Demo-Site"
+            "value": "ContosoFinance-Demo-Site2"
         },
         "apiname": {
-            "value": "ContosoFinance-Demo-Api"
+            "value": "ContosoFinance-Demo-Api2"
         },
         "sqlservername": {
-            "value": "ContosoFinance-Demo-Sql"
+            "value": "ContosoFinance-Demo-Sql2"
         },
         "databasename": {
             "value": "contosofinancedemodb"
