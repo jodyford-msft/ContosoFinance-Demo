@@ -6,10 +6,10 @@
   "parameters": {
     "location": {
       "type": "string",
-      "defaultValue": "eastus",
+      "defaultValue": "EastUS",
       "allowedValues": [
         "WestEurope",
-        "NorthEurope"
+        "EastUS"
       ],
       "metadata": {
         "description": "Select Location to deploy resouces"
