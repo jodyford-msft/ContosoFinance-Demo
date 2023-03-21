@@ -109,9 +109,9 @@
     }
   },
   "variables": {   
-    "repoURL": "https://github.com/jodyford-msft/ContosoFinance-Demo-Web.git",
+    "repoURL": "https://github.com/SoniaConti/ContosoFinance-Demo-Web.git",
     "branch": "master",
-    "APIrepoURL": "https://github.com/jodyford-msft/ContosoFinance-Demo-API.git"
+    "APIrepoURL": "https://github.com/SoniaConti/ContosoFinance-Demo-API.git"
 
   },
   "resources": [
